@@ -1,2 +1,2 @@
 # my_Portfolio
-# By Lawrence O.
+# By Lawrence Okoeguale.
